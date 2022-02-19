@@ -18,7 +18,7 @@ const Portfolio = () => {
   return (
     <>
       <Head>
-        <title>{i18n._(t`Portfolio`)} | Sushi</title>
+        <title>{i18n._(t`Portfolio`)} | CryptoCafe</title>
         <meta
           key="description"
           name="description"

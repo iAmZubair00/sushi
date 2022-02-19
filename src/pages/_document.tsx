@@ -29,8 +29,6 @@ export default function Document() {
 
         <link rel="manifest" href="/manifest.json" />
         <link rel="shortcut icon" href="/favicon.ico" />
-
-        <title>CryptoCafe</title>
       </Head>
       <body>
         <Main />

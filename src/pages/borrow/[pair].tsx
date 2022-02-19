@@ -35,7 +35,7 @@ export default function Pair() {
     <PairLayout>
       <Head>
         {/*@ts-ignore TYPE NEEDS FIXING*/}
-        <title>{i18n._(t`Borrow ${pair?.asset?.symbol}-${pair?.collateral?.symbol}`)} | Sushi</title>
+        <title>{i18n._(t`Borrow ${pair?.asset?.symbol}-${pair?.collateral?.symbol}`)} | CryptoCafe</title>
         <meta
           key="description"
           name="description"

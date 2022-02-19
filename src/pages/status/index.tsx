@@ -8,7 +8,7 @@ export default function Status({ initialData }) {
   return (
     <Container id="status-page" className="py-4 md:py-8 lg:py-12" maxWidth="full">
       <Head>
-        <title>Status | Sushi</title>
+        <title>Status | CryptoCafe</title>
         <meta key="description" name="description" content="Sushi Status..." />
         <meta key="twitter:description" name="twitter:description" content="Sushi Status..." />
         <meta key="og:description" property="og:description" content="Sushi Status..." />

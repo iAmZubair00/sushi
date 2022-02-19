@@ -422,7 +422,7 @@ export default function Remove() {
   return (
     <Container id="remove-liquidity-page" className="py-4 space-y-4 md:py-8 lg:py-12" maxWidth="2xl">
       <Head>
-        <title>Remove Liquidity | Sushi</title>
+        <title>Remove Liquidity | CryptoCafe</title>
         <meta key="description" name="description" content="Remove liquidity from the SushiSwap AMM" />
         <meta key="twitter:description" name="twitter:description" content="Remove liquidity from the SushiSwap AMM" />
         <meta key="og:description" property="og:description" content="Remove liquidity from the SushiSwap AMM" />
