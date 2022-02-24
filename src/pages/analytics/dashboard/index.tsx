@@ -232,9 +232,9 @@ export default function Dashboard(): JSX.Element {
       <Background background="dashboard">
         <div className="grid items-center justify-between grid-cols-1 gap-x-4 gap-y-4 md:grid-cols-2">
           <div>
-            <div className="text-3xl font-bold text-high-emphesis">Sushi Analytics</div>
+            <div className="text-3xl font-bold text-high-emphesis">CryptoCafe Analytics</div>
             <div className="">
-              Dive deeper in the analytics of sushi bar,
+              Dive deeper in the analytics of CryptoCafe bar,
               <br /> pools, pairs and tokens.
             </div>
           </div>

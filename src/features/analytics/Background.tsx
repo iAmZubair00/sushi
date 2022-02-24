@@ -25,10 +25,10 @@ export default function Background({ background, children }: BackgroundProps) {
           'absolute w-full h-full',
           !backgrounds[background].includes('svg') && 'bg-cover bg-center opacity-[0.15]'
         )}
-        style={{
-          backgroundImage: `url('${backgrounds[background]}')`,
-          WebkitMaskImage: `url('${backgrounds[background]}')`,
-        }}
+        // style={{
+        //   backgroundImage: `url('${backgrounds[background]}')`,
+        //   WebkitMaskImage: `url('${backgrounds[background]}')`,
+        // }}
       />
       <div className="absolute w-full px-8 py-8 lg:px-14 z-1">{children}</div>
     </div>
