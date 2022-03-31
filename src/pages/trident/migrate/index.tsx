@@ -15,7 +15,7 @@ const MigrateLiquidity = () => {
   return (
     <>
       <Head>
-        <title>{i18n._(t`Migrate Liquidity | CryptoCafe`)}</title>
+        <title>{i18n._(t`Migrate Liquidity | DXX`)}</title>
       </Head>
       <DebugObserver />
       <TridentHeader pattern="bg-binary" className="!gap-2">

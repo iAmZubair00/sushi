@@ -25,7 +25,7 @@ type FarmListNameProps = {
       id: string
     }
     name: string
-    type: 'CryptoCafe Farm' | 'Kashi Farm'
+    type: 'DXX Farm' | 'Kashi Farm'
   }
 }
 

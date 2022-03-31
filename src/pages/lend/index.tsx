@@ -41,7 +41,7 @@ export default function Lend() {
   return (
     <LendLayout>
       <Head>
-        <title>Lend | CryptoCafe</title>
+        <title>Lend | DXX</title>
         <meta
           key="description"
           name="description"

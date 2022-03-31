@@ -135,7 +135,7 @@ export default function Meowshi() {
   return (
     <Container id="meowshi-page" className="py-4 md:py-8 lg:py-12" maxWidth="2xl">
       <Head>
-        <title>Meowshi | CryptoCafe</title>
+        <title>Meowshi | DXX</title>
         <meta key="description" name="description" content="SushiSwap Meowshi..." />
         <meta key="twitter:description" name="twitter:description" content="SushiSwap Meowshi..." />
         <meta key="og:description" property="og:description" content="SushiSwap Meowshi..." />

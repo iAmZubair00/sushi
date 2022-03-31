@@ -33,7 +33,7 @@ const Desktop: FC = () => {
                 <div className="flex w-6 mr-4 items-center">
                   <Image
                     src="https://i.postimg.cc/L5jXNLZh/logo-bg-Removed.png"
-                    alt="CryptoCafe logo"
+                    alt="DXX logo"
                     width="24px"
                     height="24px"
                   />

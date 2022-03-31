@@ -106,7 +106,7 @@ function MyApp({ Component, pageProps, fallback, err }) {
   return (
     <>
       <Head>
-        <title>CryptoCafe</title>
+        <title>DXX</title>
       </Head>
       <meta
         name="viewport"

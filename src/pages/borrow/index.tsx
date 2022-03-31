@@ -39,7 +39,7 @@ export default function Borrow() {
   return (
     <BorrowLayout>
       <Head>
-        <title>{i18n._(t`Borrow`)} | CryptoCafe</title>
+        <title>{i18n._(t`Borrow`)} | DXX</title>
         <meta
           key="description"
           name="description"

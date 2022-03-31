@@ -24,13 +24,13 @@ const Footer = () => {
               <div className="">
                 <Image
                   src="https://i.postimg.cc/L5jXNLZh/logo-bg-Removed.png"
-                  alt="CryptoCafe logo"
+                  alt="DXX logo"
                   width="28px"
                   height="28px"
                 />
               </div>
               <Typography variant="h2" weight={700} className="tracking-[0.02em] scale-y-90 hover:text-high-emphesis">
-                CryptoCafe
+                DXX
               </Typography>
             </div>
             <Typography variant="xs" className="text-low-emphesis">
@@ -91,7 +91,7 @@ const Footer = () => {
             </Typography>
             <a href="#" onClick={() => false} rel="noreferrer">
               <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
-                {i18n._(t`What is CryptoCafe?`)}
+                {i18n._(t`What is DXX?`)}
               </Typography>
             </a>
             <a href="#" onClick={() => false} rel="noreferrer">
@@ -131,7 +131,7 @@ const Footer = () => {
             </a>
             <a href="#" onClick={() => false} rel="noreferrer">
               <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
-                {i18n._(t`CryptoCafe Relay`)}
+                {i18n._(t`DXX Relay`)}
               </Typography>
             </a>
           </div>

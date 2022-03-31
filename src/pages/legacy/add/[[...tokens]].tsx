@@ -307,7 +307,7 @@ export default function Add() {
   return (
     <>
       <Head>
-        <title>Add Liquidity | CryptoCafe</title>
+        <title>Add Liquidity | DXX</title>
         <meta
           key="description"
           name="description"

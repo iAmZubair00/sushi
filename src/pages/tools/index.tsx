@@ -30,7 +30,7 @@ export default function Tools() {
   return (
     <Container id="tools-page" className="py-4 space-y-4 md:py-8 lg:py-12" maxWidth="xl">
       <Head>
-        <title>Tools | CryptoCafe</title>
+        <title>Tools | DXX</title>
         <meta key="description" name="description" content="SushiSwap tools..." />
         <meta key="twitter:description" name="twitter:description" content="SushiSwap tools..." />
         <meta key="og:description" property="og:description" content="SushiSwap tools..." />
